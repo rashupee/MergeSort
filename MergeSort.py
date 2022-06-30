@@ -1,4 +1,8 @@
-
+def initialize_array(array):
+	result = []
+	for element in array:
+		result.append([element])
+	return result
 
 
 
